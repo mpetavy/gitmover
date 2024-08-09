@@ -1,8 +1,8 @@
-## DICOM
+## GITMOVER
 
-### Project description of DICOM
+### Project description of GITMOVER
 
-This is the automatic generated project description of DICOM. Stay tuned for updates :-)
+This is the automatic generated project description of GITMOVER. Stay tuned for updates :-)
 
 ### License
 
