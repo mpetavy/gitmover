@@ -3,7 +3,7 @@ module gitmover
 go 1.22.4
 
 require (
-	github.com/mpetavy/common v1.8.78
+	github.com/mpetavy/common v1.8.79
 	github.com/wk8/go-ordered-map/v2 v2.1.8
 )
 
